@@ -49,3 +49,4 @@ end
 gem 'rack-cors'
 gem "uuidtools"
 gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
+gem 'devise'
